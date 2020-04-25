@@ -25,9 +25,9 @@
 
 ## :rocket: Sobre o desafio
 
-Nesse desafio, será desenvolvido a aplicação de gestão de transações, a GoFinances utilizando React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
+Nesse desafio, foi desenvolvido a aplicação de gestão de transações, a GoFinances utilizando React.js junto com TypeScript, utilizando rotas e envio de arquivos por formulário.
 
-Essa será uma aplicação que irá se conectar com o backend do [Desafio 06](https://github.com/ebnersilva/gostack-desafio-06-banco-de-dados-e-upload-de-arquivos-com-multer), e exibir as transações criadas e permitir a importação de um arquivo CSV para gerar novos registros no banco de dados.
+Essa é uma aplicação que se conecta no backend do [Desafio 06](https://github.com/ebnersilva/gostack-desafio-06-banco-de-dados-e-upload-de-arquivos-com-multer), exibe as transações criadas e permite a importação de um arquivo CSV para gerar novos registros no banco de dados.
 
 ### Funcionalidades da aplicação
 
